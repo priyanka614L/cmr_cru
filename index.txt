@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Home</title>        
+    </head>
+    <body>
+        <h2 id="text"></h2>
+        <p id="wel"></p>
+        <script>
+            document.getElementById("text").innerHTML = "Are you ready?";
+            document.getElementById("wel").innerHTML = "Welcome to CMRTC";
+        </script>
+    </body>
+</html> 
